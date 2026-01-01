@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @81mrcrce
-- 👀 I’m interested in Database Design and their web frontend - mainly for purpose of the medical data industry.
-- 🌱 I’m currently learning RoR
+- 👀 I’m interested in Database Design and matching web frontend for purpose of the medical data industry.
+- 🌱 I graduated 5/25 as M.Sc in Medical Data Science
 - 💞️ I’m looking to collaborate on CRUD designs to ease the data flow for user interaction in medicine.
 - 📫 How to reach me steffen.henrichs at t-online.de
 
